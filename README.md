@@ -8,7 +8,7 @@ A personalised 12-week Push / Pull / Legs training plan built for an intermediat
 
 ## How to view it
 
-Live at: `https://yourusername.github.io/training-plan`
+Live at: `https://yourusername.github.io/hybrid-workout-app2
 
 Or download `index.html` and open it directly in Safari.
 
